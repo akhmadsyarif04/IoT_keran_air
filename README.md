@@ -2,12 +2,12 @@
 
 
 Servo -> NodeMcu :  
-Kuning -> D1. 
-Merah -> Vin. 
-Hitam -> Gnd. 
+- Kuning -> D1. 
+- Merah -> Vin. 
+- Hitam -> Gnd. 
 
 
 Sensor Water -> NodeMcu :  
-S -> A0. 
-+ -> 3v3. 
-- -> gnd. 
+- S -> A0. 
+- Plus(+) -> 3v3. 
+- Minus (-) -> gnd. 
